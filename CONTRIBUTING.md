@@ -55,7 +55,8 @@ Ready to contribute? Here's how to set up `tic_tac_toe_rl` for local development
     $ git checkout -b name-of-your-bugfix-or-feature
     ```
 
-4. When you're done making changes, check that your changes conform to any code formatting requirements and pass any tests.
+4. When you're done making changes, check that your changes conform to any code formatting requirements and pass any
+   tests.
 
 5. Commit your changes and open a pull request.
 

@@ -16,11 +16,11 @@ author = u"Saul Diaz-Infante"
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    "myst_nb",
-    "autoapi.extension",
-    "sphinx.ext.napoleon",
-    "sphinx.ext.viewcode",
-]
+        "myst_nb",
+        "autoapi.extension",
+        "sphinx.ext.napoleon",
+        "sphinx.ext.viewcode",
+        ]
 autoapi_dirs = ["../src"]
 
 # List of patterns, relative to source directory, that match files and
